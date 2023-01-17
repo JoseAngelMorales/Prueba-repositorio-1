@@ -2,7 +2,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-public class CalculadoraSumas {
+public class CalculadoraSumas { //Este metodo permite sumar 2 numeros
     public static int suma(int n1, int n2) {
         int sum = 0;
         sum = n1+n2;
